@@ -9,3 +9,4 @@
 # sdlkjgflksdjfgklsd
 # sdkfjsdlkfjsdklfj
 # sdkfjdsklfjsdklf
+# тест сниппетов
